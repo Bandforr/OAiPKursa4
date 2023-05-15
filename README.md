@@ -1,2 +1,3 @@
 # OAiPKursa4
-Lewdasdkfdsokfdgjagdaf
+Exe in Exe
+Code in Program.cs
